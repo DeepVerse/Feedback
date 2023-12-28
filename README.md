@@ -1,6 +1,6 @@
 # 🌟 DeepVerse User Feedback and Issue Reporting 🌟
 
-Welcome to the **DeepVerse User Feedback and Issue Reporting Repository!** This is your dedicated space for reporting bugs, issues, and providing feedback about your experience with [MatCopilot™]. We value your input as it's crucial for us to enhance and tailor our platform to better suit your needs.
+Welcome to the **DeepVerse User Feedback and Issue Reporting Repository!** This is your dedicated space for reporting bugs, issues, and providing feedback about your experience with **MatCopilot™**. We value your input as it's crucial for us to enhance and tailor our platform to better suit your needs.
 
 ## Report Bugs and Issues 🐞
 Encountered something that's not working as expected? Help us by reporting bugs and issues. When doing so, please include:
@@ -29,7 +29,7 @@ Your suggestions and ideas are always welcome. They are vital for our continuous
 - [Platform Support Email] tech@deepverse.tech
 - [Any other relevant links]
 
-**Thank you for contributing to the improvement of [MatCopilot]! Your involvement is what makes our community great. Happy coding and discovering!** 🚀
+**Thank you for contributing to the improvement of **MatCopilot**🧑🏻‍🔬! Your involvement is what makes our community great. Happy coding and discovering!** 🚀
 
 ---
 
